@@ -1,6 +1,6 @@
 # Internet y sus plataformas
 ???
-Play: https://nicolasserrano.github.io/r?https://https://pauandalt.github.io/Presntacion_Internet_Plataformas/README.md
+Play: https://nicolasserrano.github.io/r?https://https://pauandalt.github.io/Presntacion_Internet_Plataformas/
 
 ## Definición de internet:
 
