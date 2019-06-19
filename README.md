@@ -1,5 +1,4 @@
 # Internet y sus plataformas
-<p align="center">
 ![Alt text](PRUEBA.jpg)   
   ???
   
