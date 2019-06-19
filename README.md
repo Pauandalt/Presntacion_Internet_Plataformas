@@ -1,6 +1,6 @@
 # Internet y sus plataformas
 <p align="center">
-![](https://github.com/Pauandalt/Presntacion_Internet_Plataformas/blob/master/PRUEBA.jpg) 
+![](PRUEBA.jpg) 
   
   ???
   
