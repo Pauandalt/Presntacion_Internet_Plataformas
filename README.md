@@ -1,7 +1,6 @@
 # Internet y sus plataformas
 <p align="center">
-![](PRUEBA.jpg) 
-  
+![Alt text](PRUEBA.jpg)   
   ???
   
 ## Definición de internet:
